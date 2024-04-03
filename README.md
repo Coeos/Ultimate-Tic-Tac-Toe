@@ -15,7 +15,7 @@ The AI utilizes a minimax algorithm with alpha-beta pruning for decision-making,
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - NumPy library
 
 ## Setup
